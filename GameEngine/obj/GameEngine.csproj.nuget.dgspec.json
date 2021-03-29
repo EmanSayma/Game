@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine/GameEngine.csproj": {}
+  },
+  "projects": {
+    "/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine/GameEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine/GameEngine.csproj",
+        "projectName": "GameEngine",
+        "projectPath": "/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine/GameEngine.csproj",
+        "packagesPath": "/Users/eman.sayma/.nuget/packages/",
+        "outputPath": "/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eman.sayma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "System.Threading.Thread": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

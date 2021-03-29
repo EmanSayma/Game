@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="a613ccf0-d678-4b8e-b8de-764ea49aa25e" name="@Eman 2021-01-27 16:07:24" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-01-27T16:07:24.0319680+08:00" queuing="2021-01-27T16:07:24.0319680+08:00" start="2021-01-27T16:07:19.5849350+08:00" finish="2021-01-27T16:07:24.0384330+08:00" />
+  <TestSettings name="default" id="98337b46-0be7-4479-828d-bddf6e97d22d">
+    <Deployment runDeploymentRoot="_Eman_2021-01-27_16_07_24" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="e94c0c23-1218-49b3-a9ab-d8fa22000d22" testId="0abd6b95-e998-5c4b-34f1-59b62d7c3344" testName="GameEngine.Tests.TestClass2.Test4" computerName="Eman" duration="00:00:00.0002595" startTime="2021-01-27T16:07:23.8697710+08:00" endTime="2021-01-27T16:07:23.8697720+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e94c0c23-1218-49b3-a9ab-d8fa22000d22">
+      <Output>
+        <StdOut>GameState ID=15a91157-0a62-4046-89c6-cee01919852c</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9e84a830-755d-4b99-80cd-e853a6e2339c" testId="6088b54c-d707-ff24-9319-1b124065aa7f" testName="GameEngine.Tests.TestClass1.Test2" computerName="Eman" duration="00:00:00.0078887" startTime="2021-01-27T16:07:23.8644740+08:00" endTime="2021-01-27T16:07:23.8645410+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e84a830-755d-4b99-80cd-e853a6e2339c">
+      <Output>
+        <StdOut>GameState ID=15a91157-0a62-4046-89c6-cee01919852c</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c9cd354e-d78b-4263-bd6c-514bce7a4454" testId="8998f1d9-3daa-3b87-d821-d35fd859ac55" testName="GameEngine.Tests.TestClass2.Test3" computerName="Eman" duration="00:00:00.0001532" startTime="2021-01-27T16:07:23.8698190+08:00" endTime="2021-01-27T16:07:23.8698190+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c9cd354e-d78b-4263-bd6c-514bce7a4454">
+      <Output>
+        <StdOut>GameState ID=15a91157-0a62-4046-89c6-cee01919852c</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ef913010-23cc-4b9c-96e0-28e1abd035e4" testId="d557d59c-f47d-04f4-8642-4eba9b969a02" testName="GameEngine.Tests.TestClass1.Test1" computerName="Eman" duration="00:00:00.0002056" startTime="2021-01-27T16:07:23.8695850+08:00" endTime="2021-01-27T16:07:23.8695860+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef913010-23cc-4b9c-96e0-28e1abd035e4">
+      <Output>
+        <StdOut>GameState ID=15a91157-0a62-4046-89c6-cee01919852c</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="GameEngine.Tests.TestClass2.Test4" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="0abd6b95-e998-5c4b-34f1-59b62d7c3344">
+      <Execution id="e94c0c23-1218-49b3-a9ab-d8fa22000d22" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.TestClass2" name="Test4" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.TestClass1.Test1" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="d557d59c-f47d-04f4-8642-4eba9b969a02">
+      <Execution id="ef913010-23cc-4b9c-96e0-28e1abd035e4" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.TestClass1" name="Test1" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.TestClass2.Test3" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="8998f1d9-3daa-3b87-d821-d35fd859ac55">
+      <Execution id="c9cd354e-d78b-4263-bd6c-514bce7a4454" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.TestClass2" name="Test3" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.TestClass1.Test2" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="6088b54c-d707-ff24-9319-1b124065aa7f">
+      <Execution id="9e84a830-755d-4b99-80cd-e853a6e2339c" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.TestClass1" name="Test2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="0abd6b95-e998-5c4b-34f1-59b62d7c3344" executionId="e94c0c23-1218-49b3-a9ab-d8fa22000d22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6088b54c-d707-ff24-9319-1b124065aa7f" executionId="9e84a830-755d-4b99-80cd-e853a6e2339c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8998f1d9-3daa-3b87-d821-d35fd859ac55" executionId="c9cd354e-d78b-4263-bd6c-514bce7a4454" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d557d59c-f47d-04f4-8642-4eba9b969a02" executionId="ef913010-23cc-4b9c-96e0-28e1abd035e4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.1-servicing.20575.16)
+[xUnit.net 00:00:00.89]   Discovering: GameEngine.Tests
+[xUnit.net 00:00:00.96]   Discovered:  GameEngine.Tests
+[xUnit.net 00:00:00.98]   Starting:    GameEngine.Tests
+[xUnit.net 00:00:03.10]   Finished:    GameEngine.Tests
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="c016c35e-1ab6-4b4c-adc6-63c50b5f90f1" name="@Eman 2021-01-27 11:11:29" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-01-27T11:11:29.9014370+08:00" queuing="2021-01-27T11:11:29.9014370+08:00" start="2021-01-27T11:11:28.4789800+08:00" finish="2021-01-27T11:11:29.9066720+08:00" />
+  <TestSettings name="default" id="cffc17da-45ec-4d8c-9d0a-3f68837ffff0">
+    <Deployment runDeploymentRoot="_Eman_2021-01-27_11_11_29" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="1c3f57cf-22a2-4d3f-bd1a-81957cbf9109" testId="1fdd6013-8c07-4248-89c1-9307160fedd8" testName="GameEngine.Tests.BossEnemyShould.HaveCorrectPower" computerName="Eman" duration="00:00:00.0055021" startTime="2021-01-27T11:11:29.7233950+08:00" endTime="2021-01-27T11:11:29.7234980+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c3f57cf-22a2-4d3f-bd1a-81957cbf9109">
+      <Output>
+        <StdOut>Creating Boss Enemy</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="GameEngine.Tests.BossEnemyShould.HaveCorrectPower" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="1fdd6013-8c07-4248-89c1-9307160fedd8">
+      <Execution id="1c3f57cf-22a2-4d3f-bd1a-81957cbf9109" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.BossEnemyShould" name="HaveCorrectPower" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="1fdd6013-8c07-4248-89c1-9307160fedd8" executionId="1c3f57cf-22a2-4d3f-bd1a-81957cbf9109" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.1-servicing.20575.16)
+[xUnit.net 00:00:00.47]   Discovering: GameEngine.Tests
+[xUnit.net 00:00:00.51]   Discovered:  GameEngine.Tests
+[xUnit.net 00:00:00.52]   Starting:    GameEngine.Tests
+[xUnit.net 00:00:00.59]   Finished:    GameEngine.Tests
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

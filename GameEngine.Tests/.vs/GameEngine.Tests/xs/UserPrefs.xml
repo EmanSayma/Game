@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{EA88B2B2-5AA5-4E27-9F82-3B36D0481BCE}|Default">
+  <MonoDevelop.Ide.ItemProperties.GameEngine.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameEngine.Tests" expanded="True">
+            <Node name="GameEngine.Tests" expanded="True">
+              <Node name="TestData.csv" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

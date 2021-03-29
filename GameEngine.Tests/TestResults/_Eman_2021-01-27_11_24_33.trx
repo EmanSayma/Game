@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="32f7e2a8-0bf2-40e6-af4b-d47f45c7f6ee" name="@Eman 2021-01-27 11:24:33" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-01-27T11:24:33.2731540+08:00" queuing="2021-01-27T11:24:33.2731540+08:00" start="2021-01-27T11:24:31.9232170+08:00" finish="2021-01-27T11:24:33.3334020+08:00" />
+  <TestSettings name="default" id="ef48904c-a891-4435-976c-44cc9c72252e">
+    <Deployment runDeploymentRoot="_Eman_2021-01-27_11_24_33" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="9011ff48-fc6f-4b7b-94b5-7436926008fc" testId="1fdd6013-8c07-4248-89c1-9307160fedd8" testName="GameEngine.Tests.BossEnemyShould.HaveCorrectPower" computerName="Eman" duration="00:00:00.0037542" startTime="2021-01-27T11:24:33.1551730+08:00" endTime="2021-01-27T11:24:33.1551740+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9011ff48-fc6f-4b7b-94b5-7436926008fc">
+      <Output>
+        <StdOut>Creating Boss Enemy</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="495f81eb-7012-4fdf-9c6d-4f18618bd2ae" testId="c7335c2c-2d5c-dffd-f289-9dd261671f37" testName="GameEngine.Tests.EnemyFactoryShould.NotAllowNullName" computerName="Eman" duration="00:00:00.0005402" startTime="2021-01-27T11:24:33.2100560+08:00" endTime="2021-01-27T11:24:33.2100560+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="495f81eb-7012-4fdf-9c6d-4f18618bd2ae" />
+    <UnitTestResult executionId="f5490ce0-98fb-4ed5-a041-f0a0cc63d7ef" testId="cc22c250-4202-0248-d925-cf9523467e13" testName="GameEngine.Tests.PlayerCharacterShould.BeInexperienceWhenNew" computerName="Eman" duration="00:00:00.0061264" startTime="2021-01-27T11:24:33.1555300+08:00" endTime="2021-01-27T11:24:33.1555300+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5490ce0-98fb-4ed5-a041-f0a0cc63d7ef">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1a6561b2-5490-4a83-ad22-f9ee1740fa85" testId="4cde6677-2be3-ffbc-74d7-18358de3ae1c" testName="GameEngine.Tests.PlayerCharacterShould.RaisePropertyChangedEvent" computerName="Eman" duration="00:00:00.0013903" startTime="2021-01-27T11:24:33.2103470+08:00" endTime="2021-01-27T11:24:33.2103470+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1a6561b2-5490-4a83-ad22-f9ee1740fa85">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="fb3a483f-78f8-479c-b8b8-f7ccf8ae4c48" testId="bba5dd22-d8f3-7ecc-38b3-892d3e86a07d" testName="GameEngine.Tests.PlayerCharacterShould.HAVENOEMPTYDEFAULTWEAPONS" computerName="Eman" duration="00:00:00.0013912" startTime="2021-01-27T11:24:33.2130290+08:00" endTime="2021-01-27T11:24:33.2130300+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fb3a483f-78f8-479c-b8b8-f7ccf8ae4c48">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a206ebe5-a2dd-4167-aecb-639791fd4aac" testId="75fb81ce-60e7-305c-765b-905f28e42aca" testName="GameEngine.Tests.EnemyFactoryShould.CreateNormalEnemyByDefault" computerName="Eman" duration="00:00:00.0005086" startTime="2021-01-27T11:24:33.1586180+08:00" endTime="2021-01-27T11:24:33.1586180+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a206ebe5-a2dd-4167-aecb-639791fd4aac" />
+    <UnitTestResult executionId="0d3c9247-1333-47f8-8c0e-7ce0dab8e5a7" testId="55c27520-aabd-5c70-8e3e-44f3ec6d7d01" testName="GameEngine.Tests.EnemyFactoryShould.CreateBossEnemy_AssertAssignableTypes" computerName="Eman" duration="00:00:00.0004534" startTime="2021-01-27T11:24:33.1565030+08:00" endTime="2021-01-27T11:24:33.1565040+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0d3c9247-1333-47f8-8c0e-7ce0dab8e5a7" />
+    <UnitTestResult executionId="7933ef16-ca0d-48f6-8d23-215f82ed3e09" testId="a89cd3a7-ec2b-ff9c-9737-7ad2062b8130" testName="GameEngine.Tests.PlayerCharacterShould.HaveALongBow" computerName="Eman" duration="00:00:00.0006283" startTime="2021-01-27T11:24:33.2102610+08:00" endTime="2021-01-27T11:24:33.2102610+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7933ef16-ca0d-48f6-8d23-215f82ed3e09">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0b64fb9c-c274-4b64-919e-74273ad00161" testId="f8e24b14-80a5-885f-2e8d-b15e7beedb02" testName="GameEngine.Tests.PlayerCharacterShould.NotHaveNickNameByDefault" computerName="Eman" duration="00:00:00.0001649" startTime="2021-01-27T11:24:33.2130750+08:00" endTime="2021-01-27T11:24:33.2130750+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b64fb9c-c274-4b64-919e-74273ad00161">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4a0fcb2b-0d23-4cbf-a1ca-eb3d757ad885" testId="77b48874-2da9-4029-b153-89d7102cd6f2" testName="GameEngine.Tests.EnemyFactoryShould.CreateSeparateInstances" computerName="Eman" duration="00:00:00.0001962" startTime="2021-01-27T11:24:33.1585350+08:00" endTime="2021-01-27T11:24:33.1585360+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4a0fcb2b-0d23-4cbf-a1ca-eb3d757ad885" />
+    <UnitTestResult executionId="1aaf1b61-4c3f-4631-abd9-533fc9faeaf1" testId="54f66cf5-18a7-f89b-9a84-da53a5a98aea" testName="GameEngine.Tests.PlayerCharacterShould.HaveAtLeastOneKindOfSword" computerName="Eman" duration="00:00:00.0013079" startTime="2021-01-27T11:24:33.2105440+08:00" endTime="2021-01-27T11:24:33.2105440+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1aaf1b61-4c3f-4631-abd9-533fc9faeaf1">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c09efe5a-1918-4734-a2bc-8bcfc3a11745" testId="3494ef0f-6a28-2f83-1288-fcd37d34ba7e" testName="GameEngine.Tests.PlayerCharacterShould.StartWithDefaultHealth" computerName="Eman" duration="00:00:00.0020503" startTime="2021-01-27T11:24:33.2104990+08:00" endTime="2021-01-27T11:24:33.2104990+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c09efe5a-1918-4734-a2bc-8bcfc3a11745">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="737f8bd3-8fe8-4a7b-b8c3-2ce7bb85cfd4" testId="a8b3c49e-6df0-6709-d2e2-c3bd0244b3de" testName="GameEngine.Tests.EnemyFactoryShould.OnlyAllowedKingOrQueenBossEnemies" computerName="Eman" duration="00:00:00.0018015" startTime="2021-01-27T11:24:33.2098220+08:00" endTime="2021-01-27T11:24:33.2098220+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="737f8bd3-8fe8-4a7b-b8c3-2ce7bb85cfd4" />
+    <UnitTestResult executionId="a2082997-ead1-44d7-9228-cc8483369ba5" testId="0ed30c42-6f11-e2fb-ba0b-062e10496f26" testName="GameEngine.Tests.PlayerCharacterShould.RaiseSleptEvent" computerName="Eman" duration="00:00:00.0018513" startTime="2021-01-27T11:24:33.2104450+08:00" endTime="2021-01-27T11:24:33.2104450+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a2082997-ead1-44d7-9228-cc8483369ba5">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a709cf42-73f9-46d9-950d-9b4076300665" testId="74560819-32ad-83bd-5d95-84e54713654d" testName="GameEngine.Tests.PlayerCharacterShould.HaveAllExpectedWeapons" computerName="Eman" duration="00:00:00.0071037" startTime="2021-01-27T11:24:33.2101540+08:00" endTime="2021-01-27T11:24:33.2101550+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a709cf42-73f9-46d9-950d-9b4076300665">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5b53d651-f6ca-48e0-a981-2c39111d55a4" testId="518d5ee0-ee6b-6f5f-558e-055eac43c07e" testName="GameEngine.Tests.PlayerCharacterShould.IncreaseHealthAfterSleeping" computerName="Eman" duration="00:00:00.0009833" startTime="2021-01-27T11:24:33.2105900+08:00" endTime="2021-01-27T11:24:33.2105900+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5b53d651-f6ca-48e0-a981-2c39111d55a4">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="91bba8a5-3359-4c9c-9ed9-bfa669412021" testId="f87fdab8-bd1f-c52e-2b91-712c0ee8733e" testName="GameEngine.Tests.PlayerCharacterShould.CalculateFullName" computerName="Eman" duration="00:00:00.0090820" startTime="2021-01-27T11:24:33.2129690+08:00" endTime="2021-01-27T11:24:33.2129700+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91bba8a5-3359-4c9c-9ed9-bfa669412021">
+      <Output>
+        <StdOut>Creating new PlayerCharacter</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="649e2c0d-3c11-4bf3-8ad2-e58b5f08328c" testId="d545a921-13bc-2eb3-4cd0-9b60231417ea" testName="GameEngine.Tests.EnemyFactoryShould.CreateBossEnemy_castReturnedTypeExample" computerName="Eman" duration="00:00:00.0010000" startTime="2021-01-27T11:24:33.1582200+08:00" endTime="2021-01-27T11:24:33.1582210+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="649e2c0d-3c11-4bf3-8ad2-e58b5f08328c">
+      <Output>
+        <StdOut>Don't need to run this</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cf579bb1-215f-4f18-a75b-ea0106e52cb1" testId="86b26d5f-be0d-2270-8b53-8434548017da" testName="GameEngine.Tests.EnemyFactoryShould.CreateBossEnemy" computerName="Eman" duration="00:00:00.0001259" startTime="2021-01-27T11:24:33.1586910+08:00" endTime="2021-01-27T11:24:33.1586910+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf579bb1-215f-4f18-a75b-ea0106e52cb1" />
+    <UnitTestResult executionId="5d33c235-b2f4-40ae-b38c-11954a0d5562" testId="50a280d4-f169-113b-5109-d3c432b605fe" testName="GameEngine.Tests.EnemyFactoryShould.CreateNormalEnemyByDefault_NotTypeExample" computerName="Eman" duration="00:00:00.0027893" startTime="2021-01-27T11:24:33.1502460+08:00" endTime="2021-01-27T11:24:33.1503380+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5d33c235-b2f4-40ae-b38c-11954a0d5562" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="GameEngine.Tests.EnemyFactoryShould.CreateSeparateInstances" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="77b48874-2da9-4029-b153-89d7102cd6f2">
+      <Execution id="4a0fcb2b-0d23-4cbf-a1ca-eb3d757ad885" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.EnemyFactoryShould" name="CreateSeparateInstances" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.StartWithDefaultHealth" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="3494ef0f-6a28-2f83-1288-fcd37d34ba7e">
+      <Execution id="c09efe5a-1918-4734-a2bc-8bcfc3a11745" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="StartWithDefaultHealth" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.HaveAtLeastOneKindOfSword" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="54f66cf5-18a7-f89b-9a84-da53a5a98aea">
+      <Execution id="1aaf1b61-4c3f-4631-abd9-533fc9faeaf1" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="HaveAtLeastOneKindOfSword" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.NotHaveNickNameByDefault" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="f8e24b14-80a5-885f-2e8d-b15e7beedb02">
+      <Execution id="0b64fb9c-c274-4b64-919e-74273ad00161" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="NotHaveNickNameByDefault" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.BeInexperienceWhenNew" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="cc22c250-4202-0248-d925-cf9523467e13">
+      <Execution id="f5490ce0-98fb-4ed5-a041-f0a0cc63d7ef" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="BeInexperienceWhenNew" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.EnemyFactoryShould.CreateNormalEnemyByDefault" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="75fb81ce-60e7-305c-765b-905f28e42aca">
+      <Execution id="a206ebe5-a2dd-4167-aecb-639791fd4aac" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.EnemyFactoryShould" name="CreateNormalEnemyByDefault" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.HAVENOEMPTYDEFAULTWEAPONS" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="bba5dd22-d8f3-7ecc-38b3-892d3e86a07d">
+      <Execution id="fb3a483f-78f8-479c-b8b8-f7ccf8ae4c48" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="HAVENOEMPTYDEFAULTWEAPONS" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.RaiseSleptEvent" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="0ed30c42-6f11-e2fb-ba0b-062e10496f26">
+      <Execution id="a2082997-ead1-44d7-9228-cc8483369ba5" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="RaiseSleptEvent" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.EnemyFactoryShould.CreateBossEnemy_castReturnedTypeExample" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="d545a921-13bc-2eb3-4cd0-9b60231417ea">
+      <Execution id="649e2c0d-3c11-4bf3-8ad2-e58b5f08328c" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.EnemyFactoryShould" name="CreateBossEnemy_castReturnedTypeExample" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.BossEnemyShould.HaveCorrectPower" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="1fdd6013-8c07-4248-89c1-9307160fedd8">
+      <Execution id="9011ff48-fc6f-4b7b-94b5-7436926008fc" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.BossEnemyShould" name="HaveCorrectPower" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.CalculateFullName" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="f87fdab8-bd1f-c52e-2b91-712c0ee8733e">
+      <Execution id="91bba8a5-3359-4c9c-9ed9-bfa669412021" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="CalculateFullName" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.HaveALongBow" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="a89cd3a7-ec2b-ff9c-9737-7ad2062b8130">
+      <Execution id="7933ef16-ca0d-48f6-8d23-215f82ed3e09" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="HaveALongBow" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.HaveAllExpectedWeapons" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="74560819-32ad-83bd-5d95-84e54713654d">
+      <Execution id="a709cf42-73f9-46d9-950d-9b4076300665" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="HaveAllExpectedWeapons" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.EnemyFactoryShould.OnlyAllowedKingOrQueenBossEnemies" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="a8b3c49e-6df0-6709-d2e2-c3bd0244b3de">
+      <Execution id="737f8bd3-8fe8-4a7b-b8c3-2ce7bb85cfd4" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.EnemyFactoryShould" name="OnlyAllowedKingOrQueenBossEnemies" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.EnemyFactoryShould.NotAllowNullName" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="c7335c2c-2d5c-dffd-f289-9dd261671f37">
+      <Execution id="495f81eb-7012-4fdf-9c6d-4f18618bd2ae" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.EnemyFactoryShould" name="NotAllowNullName" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.EnemyFactoryShould.CreateBossEnemy_AssertAssignableTypes" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="55c27520-aabd-5c70-8e3e-44f3ec6d7d01">
+      <Execution id="0d3c9247-1333-47f8-8c0e-7ce0dab8e5a7" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.EnemyFactoryShould" name="CreateBossEnemy_AssertAssignableTypes" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.IncreaseHealthAfterSleeping" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="518d5ee0-ee6b-6f5f-558e-055eac43c07e">
+      <Execution id="5b53d651-f6ca-48e0-a981-2c39111d55a4" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="IncreaseHealthAfterSleeping" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.PlayerCharacterShould.RaisePropertyChangedEvent" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="4cde6677-2be3-ffbc-74d7-18358de3ae1c">
+      <Execution id="1a6561b2-5490-4a83-ad22-f9ee1740fa85" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.PlayerCharacterShould" name="RaisePropertyChangedEvent" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.EnemyFactoryShould.CreateNormalEnemyByDefault_NotTypeExample" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="50a280d4-f169-113b-5109-d3c432b605fe">
+      <Execution id="5d33c235-b2f4-40ae-b38c-11954a0d5562" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.EnemyFactoryShould" name="CreateNormalEnemyByDefault_NotTypeExample" />
+    </UnitTest>
+    <UnitTest name="GameEngine.Tests.EnemyFactoryShould.CreateBossEnemy" storage="/users/eman.sayma/documents/dotnet/testing/course1/game/gameengine.tests/bin/debug/net5.0/gameengine.tests.dll" id="86b26d5f-be0d-2270-8b53-8434548017da">
+      <Execution id="cf579bb1-215f-4f18-a75b-ea0106e52cb1" />
+      <TestMethod codeBase="/Users/eman.sayma/Documents/dotnet/testing/course1/Game/GameEngine.Tests/bin/Debug/net5.0/GameEngine.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="GameEngine.Tests.EnemyFactoryShould" name="CreateBossEnemy" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="1fdd6013-8c07-4248-89c1-9307160fedd8" executionId="9011ff48-fc6f-4b7b-94b5-7436926008fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c7335c2c-2d5c-dffd-f289-9dd261671f37" executionId="495f81eb-7012-4fdf-9c6d-4f18618bd2ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cc22c250-4202-0248-d925-cf9523467e13" executionId="f5490ce0-98fb-4ed5-a041-f0a0cc63d7ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4cde6677-2be3-ffbc-74d7-18358de3ae1c" executionId="1a6561b2-5490-4a83-ad22-f9ee1740fa85" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bba5dd22-d8f3-7ecc-38b3-892d3e86a07d" executionId="fb3a483f-78f8-479c-b8b8-f7ccf8ae4c48" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="75fb81ce-60e7-305c-765b-905f28e42aca" executionId="a206ebe5-a2dd-4167-aecb-639791fd4aac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="55c27520-aabd-5c70-8e3e-44f3ec6d7d01" executionId="0d3c9247-1333-47f8-8c0e-7ce0dab8e5a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a89cd3a7-ec2b-ff9c-9737-7ad2062b8130" executionId="7933ef16-ca0d-48f6-8d23-215f82ed3e09" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f8e24b14-80a5-885f-2e8d-b15e7beedb02" executionId="0b64fb9c-c274-4b64-919e-74273ad00161" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77b48874-2da9-4029-b153-89d7102cd6f2" executionId="4a0fcb2b-0d23-4cbf-a1ca-eb3d757ad885" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54f66cf5-18a7-f89b-9a84-da53a5a98aea" executionId="1aaf1b61-4c3f-4631-abd9-533fc9faeaf1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3494ef0f-6a28-2f83-1288-fcd37d34ba7e" executionId="c09efe5a-1918-4734-a2bc-8bcfc3a11745" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a8b3c49e-6df0-6709-d2e2-c3bd0244b3de" executionId="737f8bd3-8fe8-4a7b-b8c3-2ce7bb85cfd4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0ed30c42-6f11-e2fb-ba0b-062e10496f26" executionId="a2082997-ead1-44d7-9228-cc8483369ba5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="74560819-32ad-83bd-5d95-84e54713654d" executionId="a709cf42-73f9-46d9-950d-9b4076300665" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="518d5ee0-ee6b-6f5f-558e-055eac43c07e" executionId="5b53d651-f6ca-48e0-a981-2c39111d55a4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f87fdab8-bd1f-c52e-2b91-712c0ee8733e" executionId="91bba8a5-3359-4c9c-9ed9-bfa669412021" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d545a921-13bc-2eb3-4cd0-9b60231417ea" executionId="649e2c0d-3c11-4bf3-8ad2-e58b5f08328c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="86b26d5f-be0d-2270-8b53-8434548017da" executionId="cf579bb1-215f-4f18-a75b-ea0106e52cb1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="50a280d4-f169-113b-5109-d3c432b605fe" executionId="5d33c235-b2f4-40ae-b38c-11954a0d5562" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="20" executed="19" passed="19" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.01] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.1-servicing.20575.16)
+[xUnit.net 00:00:00.41]   Discovering: GameEngine.Tests
+[xUnit.net 00:00:00.45]   Discovered:  GameEngine.Tests
+[xUnit.net 00:00:00.46]   Starting:    GameEngine.Tests
+[xUnit.net 00:00:00.53]       Don't need to run this
+Test 'GameEngine.Tests.EnemyFactoryShould.CreateBossEnemy_castReturnedTypeExample' was skipped in the test run.
+[xUnit.net 00:00:00.59]   Finished:    GameEngine.Tests
+</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="Eman" outcome="Warning" timestamp="2021-01-27T11:24:33.1581320+08:00">
+        <Text>[xUnit.net 00:00:00.53]     GameEngine.Tests.EnemyFactoryShould.CreateBossEnemy_castReturnedTypeExample [SKIP]</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>
